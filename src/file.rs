@@ -1,6 +1,5 @@
 use image::ImageError;
 use image::io::Reader as ImageReader;
-use std::fs::File;
 use std::path::Path;
 
 use crate::config::Config;

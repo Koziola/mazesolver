@@ -1,6 +1,6 @@
 use std::{cmp::Reverse, collections::HashMap, panic};
 
-use image::{GenericImageView, GenericImage, Pixel};
+use image::{GenericImageView, GenericImage};
 use priority_queue::PriorityQueue;
 
 use crate::maze::Maze;
